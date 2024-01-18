@@ -1,2 +1,2 @@
 # instaprojekts
-#Darbā tiek izmantotas bibliotēkas selenium
+Darbā tiek izmantotas bibliotēkas selenium
